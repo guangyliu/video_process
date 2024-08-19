@@ -1,5 +1,8 @@
-mp4_file
+mp4_file*
 __pycache__
 *png
 *jpg
 *.ipynb_checkpoints
+test*
+no_classified*
+mp4*
